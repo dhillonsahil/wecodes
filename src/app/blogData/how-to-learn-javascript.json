@@ -1,0 +1,6 @@
+{
+    "title":"How to learn JavaScript",
+    "description":"JavaScript is a versatile and widely-used programming language that plays a central role in modern web development. Initially designed for adding interactivity to web pages, it has evolved into a powerful and full-fledged language used on both the client-side and server-side of applications. With its simple syntax and ease of use, JavaScript enables developers to create dynamic and interactive user interfaces, handle form validation, perform animations, and manipulate DOM elements. Moreover, JavaScript's flexibility and support for various frameworks and libraries have made it a preferred choice for building Single Page Applications (SPAs) and cross-platform mobile apps. With the advent of Node.js, JavaScript has also become a popular language for server-side development, allowing developers to create scalable and efficient server applications. Its ubiquity and broad support across different platforms make JavaScript an essential tool for any web developer aiming to create modern and engaging digital experiences.",
+    "author":"@isahildhillon",
+    "slug":"how-to-learn-javascript"
+}

@@ -17,6 +17,10 @@ export default function Home() {
       <div className={styles.center}>
         <h1><span className='mySpan'>We Codes</span></h1>
       </div>
+        <Image className={styles.logo} alt='we codes' src="/Logo.png" width='200' height='200' />
+        <p className={styles.description}>
+          Learn The Code In the easiest Way
+        </p>
       <h2>Popluar Blogs</h2>
       <div className="blogs">
         <div className="blogItem">

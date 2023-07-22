@@ -1,0 +1,6 @@
+{
+    "title":"How to learn Java",
+    "description":"Java is a high-level, object-oriented, and platform-independent programming language. It was originally developed by Sun Microsystems (now owned by Oracle Corporation) and released in 1995. Java was designed to be portable and versatile, allowing developers to write code that can run on any platform without the need for recompilation. This is achieved through the use of the Java Virtual Machine (JVM), which interprets Java bytecode and executes it on the host system.",
+    "author":"@isahildhillon",
+    "slug":"how-to-learn-java"
+}

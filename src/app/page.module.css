@@ -18,3 +18,23 @@
   text-decoration: none;
   cursor: pointer;
 }
+
+.description{
+  font-size: large;
+  font-weight: 400;
+  margin: 2rem;
+}
+
+.logo{
+  border: 2px solid black;
+  border-radius: 100px;
+}
+
+
+.blogItems {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  padding:  1rem 4rem;
+}
